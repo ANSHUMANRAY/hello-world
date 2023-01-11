@@ -1,0 +1,1 @@
+Optimized the run time of is prime function
